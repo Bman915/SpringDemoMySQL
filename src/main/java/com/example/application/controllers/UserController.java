@@ -58,4 +58,5 @@ public class UserController {
         }
         return authentication.isAuthenticated();
     }
+    //Testing something
 }
